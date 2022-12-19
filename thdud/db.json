@@ -1,0 +1,92 @@
+{
+  "posts": [
+    {
+      "title": "111111111111111",
+      "category": "nose",
+      "imageBefore": "https://picsum.photos/300/400",
+      "imageAfter": "https://picsum.photos/300/400",
+      "content": "1111111111111111111",
+      "price": "111111111",
+      "hospitalAdress": "1111111111111",
+      "doctor": "1111111111111",
+      "id": 3
+    },
+    {
+      "title": "12:44",
+      "category": "nose",
+      "imageBefore": "https://picsum.photos/300/400",
+      "imageAfter": "https://picsum.photos/300/400",
+      "content": "212121212",
+      "price": "12113124",
+      "hospitalAdress": "14124",
+      "doctor": "124124",
+      "id": 4
+    },
+    {
+      "title": "눈성형",
+      "category": "eye",
+      "imageBefore": "https://picsum.photos/300/400",
+      "imageAfter": "https://picsum.photos/300/400",
+      "content": "눈성형",
+      "price": "111",
+      "hospitalAdress": "11",
+      "doctor": "111",
+      "id": 5
+    },
+    {
+      "title": "코성형",
+      "category": "nose",
+      "imageBefore": "https://picsum.photos/300/400",
+      "imageAfter": "https://picsum.photos/300/400",
+      "content": "11111111",
+      "price": "11111",
+      "hospitalAdress": "11111",
+      "doctor": "11111111111",
+      "id": 6
+    },
+    {
+      "title": "턱성형",
+      "category": "chin",
+      "imageBefore": "https://picsum.photos/300/400",
+      "imageAfter": "https://picsum.photos/300/400",
+      "content": "111111111111",
+      "price": "1111",
+      "hospitalAdress": "11",
+      "doctor": "1111",
+      "id": 7
+    },
+    {
+      "title": "지방흥ㅂ입",
+      "category": "liposuction",
+      "imageBefore": "https://picsum.photos/300/400",
+      "imageAfter": "https://picsum.photos/300/400",
+      "content": "https://picsum.photos/300/400",
+      "price": "https://picsum.photos/300/400",
+      "hospitalAdress": "https://picsum.photos/300/400",
+      "doctor": "https://picsum.photos/300/400",
+      "id": 8
+    },
+    {
+      "title": "눈성형 2",
+      "category": "eye",
+      "imageBefore": "http://www.naver.com",
+      "imageAfter": "http://www.naver.com",
+      "content": "1111111",
+      "price": "11",
+      "hospitalAdress": "11",
+      "doctor": "111",
+      "id": 9
+    },
+    {
+      "title": "지방흡입",
+      "category": "liposuction",
+      "imageBefore": "http://localhost:3000/postingPage",
+      "imageAfter": "http://localhost:3000/postingPage",
+      "content": "111",
+      "price": "11",
+      "hospitalAdress": "111",
+      "doctor": "11",
+      "id": 10
+    }
+  ]
+}
